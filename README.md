@@ -14,7 +14,7 @@ Thirdly, I looked at CSS file to see if it is all in correct order and copied an
 
 Fourthly, after checking my work, I saw that nav bar was not grouping on the right side of the header, so I inserted into CSS float parameter for nav.
 
-#Final Thoughts
+# Final Thoughts
 
 It was interesting to change the code for the first time in the more semantic way. It made me understand how to better utilize basic commands in HTML, as well as paying attention to parameters that I had to fulfill to pass the Challengel.
 
